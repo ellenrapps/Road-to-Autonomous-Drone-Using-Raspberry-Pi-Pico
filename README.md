@@ -19,6 +19,4 @@ Uploaded documents:
 
 
 
-DONATION:
-
-Ellenrapps accepts Bitcoin donation: bc1qdxglsvq6tzqcwrd0zhcva9ww2y7hz879600exs
+Donation: Ellenrapps accepts Bitcoin donation: bc1qdxglsvq6tzqcwrd0zhcva9ww2y7hz879600exs
