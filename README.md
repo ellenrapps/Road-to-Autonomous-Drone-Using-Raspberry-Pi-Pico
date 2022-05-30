@@ -16,6 +16,7 @@ Uploaded documents:
 STEP 2: How to Remotely Control Multiple Servo Motors Using Raspberry Pi Pico and Bluetooth Module (HC-06)
 
 Uploaded documents:
+- pico_bluetooth_servo.py
 
 
 Donation: 
