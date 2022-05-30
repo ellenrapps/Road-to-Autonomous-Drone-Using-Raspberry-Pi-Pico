@@ -17,6 +17,10 @@ STEP 2: How to Remotely Control Multiple Servo Motors Using Raspberry Pi Pico an
 
 Uploaded documents:
 - pico_bluetooth_servo.py
+- pico_bluetooth_servo_materials
+- pico_bluetooth_wiring
+- pico_bluetooth_servo_battery_wiring1
+- pico_bluetooth_servo_battery_wiring2
 
 
 Donation: 
