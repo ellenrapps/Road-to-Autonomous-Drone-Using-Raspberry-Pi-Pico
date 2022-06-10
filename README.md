@@ -26,7 +26,7 @@ Uploaded documents:
 
 STEP 3: How to Build Motion Sensor or Obstacle Sensor Using Raspberry Pi Pico and HC-SR04 Ultrasonic Sensor
 
-YouTube Video Link:https://www.youtube.com/watch?v=QuLOJ_jz1_o&t=6s
+YouTube Video Link: https://www.youtube.com/watch?v=QuLOJ_jz1_o&t=6s
 
 Uploaded documents:
 - ulrasonic_sensor.py
