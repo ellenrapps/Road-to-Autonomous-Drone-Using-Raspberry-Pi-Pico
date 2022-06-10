@@ -14,7 +14,7 @@ while True:
     distance_in_cm = sensor_pins.distance_cm() #Distance calculation from Sanchez hcsr04 module is saved in variable distance_in_cm    
     print('Distance:', distance_in_cm, 'cm') #Print the distance in cm in the terminal
     
-    if distance_in_cm <= 15: #If distance is less than or equal to 15 cm
+    if distance_in_cm <= 10: #If distance is less than or equal to 10 cm
         passive_buzzer.duty_u16(3500) #Passive buzzer makes some noise
     
     else: 
