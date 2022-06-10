@@ -24,6 +24,16 @@ Uploaded documents:
 - pico_bluetooth_servo_battery_wiring1
 - pico_bluetooth_servo_battery_wiring2
 
+Step 3: How to Build Motion Sensor or Obstacle Sensor Using Raspberry Pi Pico and HC-SR04 Ultrasonic Sensor
+
+YouTube Video Link:https://www.youtube.com/watch?v=QuLOJ_jz1_o&t=6s
+
+Uploaded documents:
+- ulrasonic_sensor.py
+- pico_hcsr04_materials.jpg
+- pico_hcsr04_connection.jpg
+- pico_passive_buzzer_connection.jpg
+
 
 Donation: 
 Ellenrapps accepts Bitcoin donation: bc1qdxglsvq6tzqcwrd0zhcva9ww2y7hz879600exs
