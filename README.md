@@ -34,6 +34,14 @@ Uploaded documents:
 - pico_hcsr04_connection.jpg
 - pico_passive_buzzer_connection.jpg
 
+STEP 3.1 How to Connect Raspberry Pi Pico with ESP01 Wifi Module and HCSR04 Ultrasonic Sensor
+
+Uploaded documents:
+- pico_wifi_obstacle_sensor.py
+- pico_esp01_hcsr04_materials.jpg
+- pico_esp01_connection.jpg
+- pico_esp01_hcsr04_connection.jpg
+
 
 Donation: 
 Ellenrapps accepts Bitcoin donation: bc1qdxglsvq6tzqcwrd0zhcva9ww2y7hz879600exs
