@@ -36,6 +36,8 @@ Uploaded documents:
 
 STEP 3.1 How to Connect Raspberry Pi Pico with ESP01 Wifi Module and HCSR04 Ultrasonic Sensor
 
+YouTube Video Link: https://www.youtube.com/watch?v=u9w_izfE9I4&t=6s
+
 Uploaded documents:
 - pico_wifi_obstacle_sensor.py
 - pico_esp01_hcsr04_materials.jpg
