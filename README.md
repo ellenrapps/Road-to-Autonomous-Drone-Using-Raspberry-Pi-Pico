@@ -54,5 +54,13 @@ Uploaded documents:
 - pico_mpu6050_connections
 
 
+STEP 5: How to Connect Raspberry Pi Pico with Ublox Neo 6m GPS Module , 16x2 LCD Display with I2C
+
+YouTube Video Link: https://www.youtube.com/watch?v=nYhm1fT9gMA
+
+For more info visit: 
+https://github.com/ellenrapps/GPS-Coordinates-Finder-Using-Raspberry-Pi-Pico-and-Ublox-Neo-6m-GPS-Module
+
+
 Donation: 
 Ellenrapps accepts Bitcoin donation: bc1qdxglsvq6tzqcwrd0zhcva9ww2y7hz879600exs
