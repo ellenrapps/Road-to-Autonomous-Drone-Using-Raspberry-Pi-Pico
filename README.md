@@ -45,5 +45,8 @@ Uploaded documents:
 - pico_esp01_hcsr04_connection.jpg
 
 
+STEP 4: How to Connnect Raspberry Pi Pico with MPU6050 
+
+
 Donation: 
 Ellenrapps accepts Bitcoin donation: bc1qdxglsvq6tzqcwrd0zhcva9ww2y7hz879600exs
