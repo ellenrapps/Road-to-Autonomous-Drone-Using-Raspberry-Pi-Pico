@@ -46,6 +46,7 @@ Uploaded documents:
 
 
 STEP 4: How to Connnect Raspberry Pi Pico with MPU6050 
+
 YouTube Video Link: https://www.youtube.com/watch?v=u9w_izfE9I4&t=6s
 
 Uploaded documents:
