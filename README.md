@@ -45,7 +45,7 @@ Uploaded documents:
 - pico_esp01_hcsr04_connection.jpg
 
 
-STEP 4: How to Connnect Raspberry Pi Pico with MPU6050 
+STEP 4: How to Connnect Raspberry Pi Pico with MPU6050 to Read Accelerometer and Gyroscope Values 
 
 YouTube Video Link: https://www.youtube.com/watch?v=u9w_izfE9I4&t=6s
 
@@ -54,7 +54,7 @@ Uploaded documents:
 - pico_mpu6050_connections
 
 
-STEP 5: How to Connect Raspberry Pi Pico with Ublox Neo 6m GPS Module , 16x2 LCD Display with I2C
+STEP 5: How to Connect Raspberry Pi Pico with Ublox Neo 6m GPS Module, and 16x2 LCD Display with I2C
 
 YouTube Video Link: https://www.youtube.com/watch?v=nYhm1fT9gMA
 
