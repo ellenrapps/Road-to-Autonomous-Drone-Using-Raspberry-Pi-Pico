@@ -61,6 +61,3 @@ YouTube Video Link: https://www.youtube.com/watch?v=nYhm1fT9gMA
 For more info visit: 
 https://github.com/ellenrapps/GPS-Coordinates-Finder-Using-Raspberry-Pi-Pico-and-Ublox-Neo-6m-GPS-Module
 
-
-Donation: 
-Ellenrapps accepts Bitcoin donation: bc1qdxglsvq6tzqcwrd0zhcva9ww2y7hz879600exs
