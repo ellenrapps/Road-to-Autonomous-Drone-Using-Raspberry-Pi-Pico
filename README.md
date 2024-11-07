@@ -1,4 +1,10 @@
-Support my work via Bitcoin donation: bc1qrxl9f0vjue2r6ckujh8qv05j2cqt343muszwgf
+Support my work via Bitcoin donation: 
+
+3PBQZaxNh1U5pmKQ3zSboVfSedTJ5jYdBs
+
+or
+
+bc1p63fyummqja06a3gyvw6r4khw8puw02p7fxd5wyysmgnmsm47cz0sa363pj
 
 ----------
 This project showcases a series of code (mainly Python) towards creating an autonomous drone using Raspberry Pi Pico. This project will also showcase hardware set-up: microcontroller (Raspberry Pi Pico), GPS module, Bluetooth module, brushless DC motor and others.
