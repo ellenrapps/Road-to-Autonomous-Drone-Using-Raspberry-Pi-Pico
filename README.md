@@ -1,12 +1,4 @@
-Support my work via Bitcoin donation: 
 
-3PBQZaxNh1U5pmKQ3zSboVfSedTJ5jYdBs
-
-or
-
-bc1p63fyummqja06a3gyvw6r4khw8puw02p7fxd5wyysmgnmsm47cz0sa363pj
-
-----------
 This project showcases a series of code (mainly Python) towards creating an autonomous drone using Raspberry Pi Pico. This project will also showcase hardware set-up: microcontroller (Raspberry Pi Pico), GPS module, Bluetooth module, brushless DC motor and others.
 
 STEP 1: How to Remotely Control LED Using Raspberry Pi Pico and Bluetooth Module (HC-06)
